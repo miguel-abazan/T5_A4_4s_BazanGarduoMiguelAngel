@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">T5_A4_4s_BazanGarduñoMiguelAngel</string>
+    <string name="lbl_titulo">CONVERSOR</string>
+    <string name="lbl_ingresar_cantida">Ingresa número: </string>
+    <string name="btn_aceptar">CONVERTIR </string>
+    <string name="lbl_sistema_n">Del Sistema: </string>
+    <string name="lbl_converion">CONVERTIR A: </string>
+
+    <string name="decimal">Decimal </string>
+    <string name="binario">Binario </string>
+    <string name="octal">Octal </string>
+    <string name="hexadecimal">Hexadecimal </string>
+</resources>
